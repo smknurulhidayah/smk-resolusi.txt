@@ -3,7 +3,10 @@ RENCANA SEKOLAH SMK
 - Pembangunan
   * TOILET
   * GEDUNG
+   ^ Dalam & Luar
 - PELAJARAN
 - PPDB
+  ^ Di smpisuha
 - Program sekolah
 - Guru
+- Contact
