@@ -4,6 +4,7 @@ RENCANA SEKOLAH SMK
   * TOILET
   * GEDUNG
    ^ Dalam & Luar
+   ^ Serta kantin
 - PELAJARAN
 - PPDB
   ^ Di smpisuha
