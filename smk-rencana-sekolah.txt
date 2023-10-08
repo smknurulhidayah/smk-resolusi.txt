@@ -1,6 +1,8 @@
 RENCANA SEKOLAH SMK
 
 - Pembangunan
+  * TOILET
+  * GEDUNG
 - PPDB
 - Program sekolah
 - Guru
