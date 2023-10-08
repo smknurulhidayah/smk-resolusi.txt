@@ -3,9 +3,11 @@ RENCANA SEKOLAH SMK
 - Pembangunan
   * TOILET
   * GEDUNG
-    ^ Laboratorium
-    ^ Osis
+   ^ Dalam & Luar
+   ^ Serta kantin
+- PELAJARAN
 - PPDB
-   ^ Di smpisnuha
+  ^ Di smpisuha
 - Program sekolah
 - Guru
+- Contact
